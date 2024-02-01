@@ -1,0 +1,9 @@
+
+/.vs
+/obj
+/Project.Api.Application/obj
+/Project.Api.Application/bin
+/Project.Api.Infrastructure/obj
+/Project.Api.Infrastructure/bin
+/Project.Api/obj
+/Project.Api/bin
